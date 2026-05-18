@@ -66,6 +66,10 @@ Advanced analysis was performed to generate deeper business insights and support
 - Year-over-Year (YoY) by Product
 - RFM customer segmentation
 - Customer value classification
+
+Detailed analysis and visualizations are available in: 
+'notebooks/Advance_Analysis.ipynb'
+
 ## Key Findings
 - The dataset contains **18,484 customers**, **295 products**, and **27,657 orders**, generating total sales of approximately **$29.35M** with an average product price of **$486.11**.
 - The **United States** generated the highest sales revenue at approximately **$9.16M** and recorded the highest quantity sold with **20,474 units**, followed closely by Australia.

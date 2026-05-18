@@ -11,7 +11,7 @@ Key components of this project include:
 - **Exploratory Data Analysis (EDA):** Analyzing sales performance, customer behavior, and product trends using Python.
 - **Advanced Analysis:** Performing Year-over-Year (YoY) analysis and RFM analysis to identify sales trends and classify customers into business-value segments.
 
-## Building the Data Warehouse (Data Engineering)
+## Building the Data Warehouse
 
 ### Objective
 

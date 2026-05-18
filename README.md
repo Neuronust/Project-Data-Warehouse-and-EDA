@@ -42,6 +42,7 @@ Raw CSV Files → Bronze Layer → Silver Layer → Gold Layer → Analytics & R
 The analytical data model in the Gold layer is designed using a star schema approach to support efficient reporting, business intelligence, and analytical queries.
 
 The model consists of fact tables that store transactional metrics and dimension tables that provide descriptive business context.
+
 <img width="661" height="331" alt="data model drawio" src="https://github.com/user-attachments/assets/bc9a854a-4ae4-430f-936d-0dfc218694a8" />
 
 ## Data Analysis
